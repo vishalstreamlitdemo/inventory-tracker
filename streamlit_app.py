@@ -173,7 +173,7 @@ def update_data(conn, df, changes):
 """
 # :shopping_bags: Inventory Tracker NAIT Demo
 
-**Welcome to Alice's Corner Store's intentory tracker!**
+**Welcome to Rohan's Corner Store's intentory tracker!**
 This page reads and writes directly from/to our inventory database.
 """
 
